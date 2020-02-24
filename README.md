@@ -6,3 +6,6 @@ The sequence for the following scripts instruction wise is as follows:
 1. Loading and Displaying Images
 2. Loading and Displaying Video Frames
 3. Drawing Shapes on Images
+4. Writing Text on Images
+5. Image Operations
+6. Image Arithmetics
