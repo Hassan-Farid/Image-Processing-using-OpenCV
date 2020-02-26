@@ -9,3 +9,6 @@ The sequence for the following scripts instruction wise is as follows:
 4. Writing Text on Images
 5. Image Operations
 6. Image Arithmetics
+7. Image Thresholding Methods
+8. Color Filtering
+9. Low Pass Filters for Noise Elimination
