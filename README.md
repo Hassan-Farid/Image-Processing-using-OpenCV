@@ -12,3 +12,6 @@ The sequence for the following scripts instruction wise is as follows:
 7. Image Thresholding Methods
 8. Color Filtering
 9. Low Pass Filters for Noise Elimination
+10. Morphological Transformations
+11. Edge Detection
+12. Pre-Trained Haar Cascade Classifiers
